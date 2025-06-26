@@ -1,0 +1,20 @@
+[90m= [39m[34;4mApp\Models\Event[39;24m {#6217
+    [34mid[39m: [35m5[39m,
+    [34morganizer_id[39m: [35m1[39m,
+    [34mname[39m: "[32mbroos[39m",
+    [34mdescription[39m: "[32mtest[39m",
+    [34mdeadline[39m: "[32m2025-06-13 14:21:00[39m",
+    [34mprivacy[39m: "[32mpublic[39m",
+    [34mpassword_protected[39m: [35m0[39m,
+    [34mpassword_hash[39m: [36mnull[39m,
+    [34manonymous_contributions[39m: [35m0[39m,
+    [34mshow_contribution_breakdown[39m: [35m1[39m,
+    [34mcreated_at[39m: "[32m2025-06-25 12:21:15[39m",
+    [34mupdated_at[39m: "[32m2025-06-25 15:03:53[39m",
+    [34madmin_name[39m: "[32mrobin[39m",
+    [34madmin_code[39m: "[32mQs0m0iMktFBmzPaj[39m",
+    [34mjoin_code[39m: "[32mC2TTFHRV[39m",
+    [34mstripe_account_id[39m: [36mnull[39m,
+    [34mgoal_amount[39m: "[32m700.00[39m",
+  }
+
